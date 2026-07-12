@@ -1,0 +1,10 @@
+# --- License-restricted (competition-use-only) & oversized (GitHub 100MB cap) ---
+# Raw Kaggle downloads, extracted cabt engine, card data & PDFs — DO NOT COMMIT.
+/data/
+
+# --- Local dev artifacts ---
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
