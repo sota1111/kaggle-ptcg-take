@@ -1,7 +1,11 @@
-# kaggle-ptcg-ume
+# kaggle-ptcg-take
 
 Local **data & engine workspace** for the Pokémon TCG AI Battle Challenge (Kaggle).
-Agent/dev code lives in a separate repo: **sota1111/ptcg-agent-ume**.
+Agent/dev code lives in a separate repo: **sota1111/ptcg-agent-take**.
+
+提出物の生成・検証・認証・Kaggle への提出は、共通の
+[Kaggle 提出ガイド](https://github.com/sota1111/ptcg-agent-core/blob/main/docs/kaggle-submission.md)
+を参照してください。
 
 ## ⚠️ Nothing under `data/` is committed
 The cabt engine, card data (CSV), Card_ID PDFs and raw competition zips are
